@@ -1,3 +1,15 @@
+NOTE: This project was forked from the https://github.com/e36freak/awk-libs
+commit of 2017-09-14, which is the last version that included a clear license.
+It has since then been altered by the e36freak account to replace any license
+notices with the words "You can do whatever you want with this stuff, but a
+thanks is always appreciated".  Other than reverting to the license version and
+including this note, no changes have been made to this repository at this time.
+No further code changes have been made to the e36freak code, either.  Please
+feel free to contribute pull requests if you have improvements to offer; I
+intend to review them and, if appropriate, accept them.
+
+---
+
 AWK library function descriptions
 
 Every function below is fully POSIX compliant, and has been tested on gawk 3
